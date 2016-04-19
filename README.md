@@ -1,2 +1,4 @@
 # hello-world
-print stuff
+hi human 
+
+sounds easy enuf...
